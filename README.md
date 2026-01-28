@@ -209,16 +209,16 @@ $$X = [M, T, M^2, M \cdot T]$$
 #### Both Notebooks Open in SageMaker
 
 ![img](./src/img/notebooks-uploaded.png)
+![img](./src/img/notebook-01.png)
+![img](./src/img/notebook-01.png)
 
 #### Successful Execution - Part 1
 
-<video src="./src/media/exec-notebook-1.mp4" width="100%" autoplay loop muted>
-</video>
+[Watch execution video (MP4)](./src/media/exec-notebook-1.mp4)
 
 #### Successful Execution - Part 2
 
-<video src="./src/media/exec-notebook-2.mp4" width="100%" autoplay loop muted>
-</video>
+[Watch execution video (MP4)](./src/media/exec-notebook-2.mp4)
 
 #### Plot Rendered in SageMaker
 ![img](./src/img/sagemaker-success-render.png)
