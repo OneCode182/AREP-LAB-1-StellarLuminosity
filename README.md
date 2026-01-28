@@ -210,7 +210,7 @@ $$X = [M, T, M^2, M \cdot T]$$
 
 ![img](./src/img/notebooks-uploaded.png)
 ![img](./src/img/notebook-01.png)
-![img](./src/img/notebook-01.png)
+![img](./src/img/notebook-02.png)
 
 #### Successful Execution - Part 1
 
